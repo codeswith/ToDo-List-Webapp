@@ -1,0 +1,1 @@
+The To-Do List Web App allows users to create, update, delete, and save tasks with a simple and intuitive interface. Built using HTML, CSS, and JavaScript, it stores tasks locally in the browser for easy access and management across sessions.
